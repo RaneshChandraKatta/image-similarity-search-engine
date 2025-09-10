@@ -1,4 +1,4 @@
-### ## 📂 Recommended Datasets (Choose One)
+### 📂 Recommended Datasets (Choose One)
 
 For a project using a brute-force search with MySQL, you should start with a dataset that is large enough to be interesting but not so massive that it becomes too slow.
 
@@ -8,7 +8,7 @@ For a project using a brute-force search with MySQL, you should start with a dat
 
 ---
 
-### ## 🛠️ Required Skills List (MySQL Focus)
+### 🛠️ Required Skills List (MySQL Focus)
 
 #### 1. Core Machine Learning Concepts
 * **Transfer Learning**: Understanding how to use a pre-trained model (like ResNet50) to extract features without training it yourself.
@@ -36,7 +36,7 @@ For a project using a brute-force search with MySQL, you should start with a dat
 
 ---
 
-### ## 🗺️ The 4-Week Project Roadmap
+### 🗺️ The 4-Week Project Roadmap
 
 #### **Week 1: Foundations & Infrastructure Setup**
 * **Goal**: Get your environment ready and solidify your understanding.
